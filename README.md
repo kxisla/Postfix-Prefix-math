@@ -184,8 +184,3 @@ IF token_count == 0 THEN
 PRINT "No which token."
 RETURN 1
 ALL IF
-
-    GỌI print_number_pretty(result)
-
-    TRẢ VỀ 0
-KẾT THÚC HÀM
